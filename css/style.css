@@ -5,10 +5,19 @@
  *
  * Made By MaterializeCSS.com
  */
+ #main{
 
+ }
+ h1.header{
+  font-family: 'Orbitron', sans-serif;
+  color: ghost-white;
+ }
+.dr-blue{
+  background-color:#000c0e ! important;
+}
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #8aeafa;
 }
 
 p {
