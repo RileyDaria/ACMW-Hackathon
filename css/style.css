@@ -30,10 +30,21 @@
 /*** Schedule Styling**/
 
 .custom-left{
+ /* border-top-style: dashed;*/
   border-left-style: dashed;
   border-color: #8aeafa;
   border-width: 2px;
 
+}
+.schedule li{
+  border-bottom-style: dashed;
+  border-color: #8aeafa;
+  border-width: 2px;
+  margin:1em;
+}
+.schedule{
+  text-align: left;
+ 
 }
 nav ul a,
 nav .brand-logo {
