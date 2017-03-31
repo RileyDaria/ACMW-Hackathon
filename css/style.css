@@ -8,6 +8,10 @@
  #main{
 
  }
+ .code-font{
+  font-family: 'Source Code Pro', monospace;
+  color:#8aeafa;
+ }
  h1.header{
   font-family: 'Orbitron', sans-serif;
   color: ghost-white;
@@ -15,11 +19,21 @@
   font-size: 6rem;
  }
  h2{
-    font-family: 'Orbitron', sans-serif;
-  color: ghost-white;
+ font-family: 'Orbitron', sans-serif;
+  color: ghost-white ! important;
  }
 .dr-blue{
   background-color:#000c0e ! important;
+}
+
+
+/*** Schedule Styling**/
+
+.custom-left{
+  border-left-style: dashed;
+  border-color: #8aeafa;
+  border-width: 2px;
+
 }
 nav ul a,
 nav .brand-logo {
