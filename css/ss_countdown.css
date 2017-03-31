@@ -33,7 +33,7 @@ body {
     font-weight: normal;
 }
 .ss-countdown-container h4 {
-    color:#b6b6b6;
+    color:#8aeafa;
     text-transform: uppercase;
     font-size:18px;
     text-align: center;
@@ -73,6 +73,7 @@ body {
 .ss-countdown-container .ss-text { position:absolute; top:58px; left:55px; width:100px;  height:100px;}
 
 .ss-countdown-container .ss-value {
+    font-family: 'Orbitron', sans-serif;
     font-size:47px;
     font-weight:bold;
     color:#FFF;
@@ -94,10 +95,10 @@ body {
     text-transform:uppercase;
 }
 
-.ss-countdown-container .ss-days-text {color:#f9b401;}
-.ss-countdown-container .ss-hours-text {color:#23d0a2;}
-.ss-countdown-container .ss-minutes-text {color:#ff5153;}
-.ss-countdown-container .ss-seconds-text {color:#11c8ea;}
+.ss-countdown-container .ss-days-text {color:#8aeafa;}
+.ss-countdown-container .ss-hours-text {color:#8aeafa;}
+.ss-countdown-container .ss-minutes-text {color:#8aeafa;}
+.ss-countdown-container .ss-seconds-text {color:#8aeafa;}
 
 .ss-countdown-container .ss-subscribe-container {
 	overflow: hidden;

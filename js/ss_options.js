@@ -1,9 +1,9 @@
 var ssCountdownDefaultOptions = ssCountdownDefaultOptions || {};
 
-ssCountdownDefaultOptions.secondsColor 	= 	"#11c8ea";
-ssCountdownDefaultOptions.minutesColor 	= 	"#ff5153";
-ssCountdownDefaultOptions.hoursColor 	= 	"#23d0a2";
-ssCountdownDefaultOptions.daysColor 	= 	"#f9b401";
+ssCountdownDefaultOptions.secondsColor 	= 	"#8aeafa";
+ssCountdownDefaultOptions.minutesColor 	= 	"#8aeafa";
+ssCountdownDefaultOptions.hoursColor 	= 	"#8aeafa";
+ssCountdownDefaultOptions.daysColor 	= 	"#8aeafa";
 
 /*
  * IMPORTANT NOTES:

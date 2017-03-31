@@ -25,6 +25,14 @@
 .dr-blue{
   background-color:#000c0e ! important;
 }
+div.ss-countdown-container{
+  padding-bottom: 3em;
+}
+nav.header{
+  border-bottom-style: dashed;
+  border-color: #8aeafa;
+  border-width: 2px;
+}
 
 
 /*** Schedule Styling**/
