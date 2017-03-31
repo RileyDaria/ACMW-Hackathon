@@ -28,12 +28,15 @@
 div.ss-countdown-container{
   padding-bottom: 3em;
 }
-nav.header{
+nav.header,.divider{
   border-bottom-style: dashed;
   border-color: #8aeafa;
   border-width: 2px;
 }
 
+.extra-padding{
+  padding-bottom: 1em;
+}
 
 /*** Schedule Styling**/
 

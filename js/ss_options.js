@@ -22,4 +22,4 @@ ssCountdownDefaultOptions.time 		= 	"15:00:00";
  * GMT+08:00
  * GMT-08:30
 */
-ssCountdownDefaultOptions.timezone 		= 	"GMT+06:00";
+ssCountdownDefaultOptions.timezone 		= 	"GMT-06:00";
