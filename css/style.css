@@ -37,6 +37,9 @@ nav.header,.divider{
 .extra-padding{
   padding-bottom: 1em;
 }
+.sponsors img{
+  max-width: 50%;
+}
 
 /*** Schedule Styling**/
 
